@@ -84,7 +84,7 @@ I am currently building my skills toward a role as a **Junior Data Analyst**, fo
 
 ## 📬 Contact
 - Name: Qevin Attaqwa  
-- GitHub: (add your username here)
+- GitHub: github.com/qevinattaqwarx-ui
 
 ---
 
