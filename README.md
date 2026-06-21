@@ -17,6 +17,7 @@ SQL (MySQL / PostgreSQL compatible)
 Git & GitHub
 Data analysis concepts (data cleaning, aggregation, segmentation, trend analysis)
 Repository Structure
+
 data-portfolio/
 │
 ├── sql/
@@ -27,6 +28,7 @@ data-portfolio/
 │   └── raw_dataset.csv
 │
 └── README.md
+
 Data Cleaning Process
 
 The dataset was prepared for analysis through structured cleaning steps:
